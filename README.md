@@ -43,7 +43,7 @@ Fine-tuning was also performed to improve performance using a small learning rat
 Fine-tuned models showed improved segmentation accuracy, capturing lesion boundaries more precisely and reducing false positives.
 
 ## 📁 Code Links
-  - `sementation_code.py`
+  - `segmentation_code.py`
 
 ## 📈 Results & Observations
 
