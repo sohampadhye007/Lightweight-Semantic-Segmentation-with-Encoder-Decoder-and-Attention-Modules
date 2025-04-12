@@ -43,9 +43,7 @@ Fine-tuning was also performed to improve performance using a small learning rat
 Fine-tuned models showed improved segmentation accuracy, capturing lesion boundaries more precisely and reducing false positives.
 
 ## 📁 Code Links
-
-- [Main Notebook (Architectures)](LINK_HERE)
-- [Augmented Dataset Notebook](LINK_HERE)
+  - `sementation_code.py`
 
 ## 📈 Results & Observations
 
@@ -66,6 +64,3 @@ Fine-tuned models showed improved segmentation accuracy, capturing lesion bounda
 - DeepLab: Encoder-Decoder with Atrous Convolutions
 - Binary Cross Entropy with Logits Loss
 
----
-
-Let me know if you'd like help linking the code notebooks or adding visualization outputs!
